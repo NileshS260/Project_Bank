@@ -1,1 +1,3 @@
 # Project_Bank
+
+This project implements an interpretable machine learning pipeline to predict and explain customer churn using a Logistic Regression model and SHAP (SHapley Additive exPlanations) analysis. The study identifies key churn drivers—specifically product count, member activity, and age—while visualizing global feature importance and individual high-risk customer profiles through waterfall plots. Furthermore, it explores complex feature interactions, such as the compounded risk of inactivity among single-product users and age-related churn in specific geographies. The findings are synthesized into actionable strategic recommendations for marketing and risk management to improve customer retention.
